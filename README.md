@@ -14,10 +14,10 @@ The model used for clustering was a KMeans model but a pre- trained Vgg16 model 
 Required libraries installed before running the code.  
 ## Commands to install the necessary dependencies:
 
-!pip install opencv-python
-!pip install numpy
-!pip install scikit-learn
-!pip install matplotlib
+-!pip install opencv-python
+-!pip install numpy
+-!pip install scikit-learn
+-!pip install matplotlib
 
 ## Setup:
 
