@@ -113,6 +113,4 @@ Welcome to the Automatic Image Catalogue! This Streamlit app helps categorize fa
 - The app uses pre-trained models for clustering and feature extraction.
 - The uploaded image will be categorized and saved to the corresponding folder.
 
-Feel free to explore and enjoy the Automatic Image Catalogue! Happy Cataloging
-```
-
+Feel free to explore and enjoy the Automatic Image Catalogue! Happy Cataloging... :)
