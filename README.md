@@ -72,3 +72,47 @@ Feel free to adapt the code to your specific use case and image dataset. If you 
 
 ## Link to deployment code:
  https://youtu.be/lQh6LVRZ3T4
+
+
+
+
+## STREAMLIT DEPLOYMENT.
+# Automatic Image Catalogue - Fashion Categorizer
+
+Welcome to the Automatic Image Catalogue! This Streamlit app helps categorize fashion images into different clusters using KMeans.
+
+## Features
+
+- **Upload an Image:** Upload an image, and the app will predict its cluster using pre-trained models. The image will be saved to the respective folder.
+
+- **View Catalog:** View the image catalog with categorized images in the "Bags," "Shoes," and "Apparel" folders.
+
+## How to Use
+
+1. Run the Streamlit app in your terminal:
+   streamlit run app.py (For mac users)
+   python -m streamlit run app.py (For windows users)  
+
+2. You will be autoatically redirected to the app on your local host.
+
+3. Choose whether to "Upload an Image" or "View Catalog" in the app.
+
+### Upload an Image
+
+- Click on "Upload an Image" in the app.
+- Choose an image file (JPG, JPEG, or PNG).
+- Click "Exit" to stop using the app.
+
+### View Catalog
+
+- Click on "View Catalog" in the app.
+- Browse through the categorized images in the "Bags," "Shoes," and "Apparel" sections.
+
+## Note
+
+- The app uses pre-trained models for clustering and feature extraction.
+- The uploaded image will be categorized and saved to the corresponding folder.
+
+Feel free to explore and enjoy the Automatic Image Catalogue! Happy Cataloging
+```
+
