@@ -69,3 +69,6 @@ Required libraries installed before running the code.
 4. Run the code sections sequentially.
 
 Feel free to adapt the code to your specific use case and image dataset. If you encounter any issues or have questions, please refer to the code comments or seek assistance.
+
+## Link to deployment code:
+ https://youtu.be/lQh6LVRZ3T4
