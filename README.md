@@ -1,4 +1,4 @@
-# AI-based-Fashion-Catalogue-Final-Project
+# AI based Fashion Catalogue
 **Image Clustering using Machine Learning**
 
 ![image](https://github.com/Msgasu/AI-based-Fashion-Catalogue-Final-Project/assets/148695396/fa1c9a9e-931d-4bdd-9350-084e221db612)
